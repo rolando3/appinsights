@@ -1,0 +1,17 @@
+Package: appinsights
+Title: Provides ability to query Microsoft Azure Application Insights
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Rolando",
+           family = "de Aguiar",
+           role = c("aut", "cre"),
+           email = "rdeaguiar@epicor.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Provides a set of functions for querying Microsoft
+             Azure Application Insights
+License: N/A
+Encoding: UTF-8
+LazyData: true
+Imports:
+    jsonlite
+RoxygenNote: 7.0.2
